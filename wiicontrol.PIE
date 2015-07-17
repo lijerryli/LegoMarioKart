@@ -1,0 +1,51 @@
+﻿if(Wiimote.Two)
+Keys.Z = false
+Keys.Q = Wiimote.SteeringAngle < -80
+Keys.W =  -80 <= Wiimote.SteeringAngle < -60
+Keys.E = -60 <= Wiimote.SteeringAngle < -40
+Keys.R = -40 <= Wiimote.SteeringAngle < -20
+Keys.T = -20 <= Wiimote.SteeringAngle < 20
+Keys.Y = 20 <= Wiimote.SteeringAngle < 40
+Keys.U = 40 <= Wiimote.SteeringAngle < 60
+Keys.I = 60 <= Wiimote.SteeringAngle < 80
+Keys.O = 80 <= Wiimote.SteeringAngle
+else
+Keys.Q = false
+Keys.W = false
+Keys.E = false
+Keys.R = false
+Keys.T = false
+Keys.Y = false
+Keys.U = false
+Keys.I = false
+Keys.O = false
+if(Wiimote.One)
+Keys.A = Wiimote.SteeringAngle < -80
+Keys.S =  -80 <= Wiimote.SteeringAngle < -60
+Keys.D = -60 <= Wiimote.SteeringAngle < -40
+Keys.F = -40 <= Wiimote.SteeringAngle < -20
+Keys.G = -20 <= Wiimote.SteeringAngle < 20
+Keys.H = 20 <= Wiimote.SteeringAngle < 40
+Keys.J = 40 <= Wiimote.SteeringAngle < 60
+Keys.K = 60 <= Wiimote.SteeringAngle < 80
+Keys.L = 80 <= Wiimote.SteeringAngle
+Keys.Z = false
+else
+Keys.A = false
+Keys.S = false
+Keys.D = false
+Keys.F = false
+Keys.G = false
+Keys.H = false
+Keys.J = false
+Keys.K = false
+Keys.L = false
+Keys.Z = true
+endif
+endif
+if(Wiimote.A)
+Keys.P = true
+else
+Keys.P = false
+endif
+

@@ -1,0 +1,11 @@
+C:\Users\Jerry\AppData\Local\Temporary Projects\robotBlue\bin\Debug\robotBlue.exe
+C:\Users\Jerry\AppData\Local\Temporary Projects\robotBlue\bin\Debug\robotBlue.pdb
+C:\Users\Jerry\AppData\Local\Temporary Projects\robotBlue\obj\x86\Debug\robotBlue.exe
+C:\Users\Jerry\AppData\Local\Temporary Projects\robotBlue\obj\x86\Debug\robotBlue.pdb
+C:\Users\Jerry\Documents\Uni\MTE100\FINAL PROJ\robotBlue\robotBlue\obj\x86\Debug\robotBlue.exe
+C:\Users\Jerry\Documents\Uni\MTE100\FINAL PROJ\robotBlue\robotBlue\obj\x86\Debug\robotBlue.pdb
+C:\Users\Jerry\Documents\Uni\MTE100\FINAL PROJ\robotBlue\robotBlue\bin\Debug\robotBlue.exe
+C:\Users\Jerry\Documents\Uni\MTE100\FINAL PROJ\robotBlue\robotBlue\bin\Debug\robotBlue.pdb
+C:\Users\Jerry\Documents\Uni\MTE100\FINAL PROJ\robotBlue\robotBlue\obj\x86\Debug\robotBlue.csprojResolveAssemblyReference.cache
+C:\Users\Jerry\Uni\MTE100\FINAL PROJ\robotBlue\robotBlue\obj\x86\Debug\robotBlue.exe
+C:\Users\Jerry\Uni\MTE100\FINAL PROJ\robotBlue\robotBlue\obj\x86\Debug\robotBlue.pdb

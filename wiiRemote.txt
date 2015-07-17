@@ -1,0 +1,42 @@
+#include <cstdlib>
+#include <iostream>
+#include <conio.h>
+
+using namespace std;
+
+int main()
+  
+    char a = getch();
+    switch(a)
+    {
+             case 'q':
+                  cout << "q" << endl;
+                  break;
+             case 'w':
+                  cout << "w" << endl;
+                  break;
+             case 'e':
+                  cout << "e" << endl;
+                  break;
+             case 'r':
+                  cout << "r" << endl;
+                  break;  
+             case 't':
+                  cout << "t" << endl;
+                  break;
+             case 'y':
+                  cout << "y" << endl;
+                  break;
+                  }
+    Sleep(500);
+    return 0;
+}
+
+
+
+Key.Q = -90 < Wiimote.SteeringAngle < -60
+Key.W = -60 <= Wiimote.SteeringAngle < -30
+Key.E = -30 <= Wiimote.SteeringAngle < -10
+Key.R = 10 <= Wiimote.SteeringAngle < 30
+Key.T = 30 <= Wiimote.SteeringAngle < 60
+Key.Y = 60 <= Wiimote.SteeringAngle < 90
